@@ -24,11 +24,14 @@ Scan Text App - A seamless, high-performing &amp; accessible library for OCR-rel
 
 ## Download Now 
 
--[Scan Text](https://mega.nz/file/SvIgRBgD#rnzfZmZNdxm49qAyQMZfcG6OqY_M6-nUIXXpfwpJziU)
+- [Scan Text](https://mega.nz/file/SvIgRBgD#rnzfZmZNdxm49qAyQMZfcG6OqY_M6-nUIXXpfwpJziU)
 
 ## ScreenShots
 
-
-
+![](ScreenShots/Screenshot_2021-12-15-15-21-30-910_com.example.scantext.png)
+![](ScreenShots/Screenshot_2021-12-15-15-21-44-464_android.png)
+![](ScreenShots/Screenshot_2021-12-15-15-22-00-978_com.example.scantext.png)
+![](ScreenShots/Screenshot_2021-12-15-15-22-09-775_com.example.scantext.png)
+![](ScreenShots/Screenshot_2021-12-15-15-22-16-140_com.example.scantext.png)
 
 
