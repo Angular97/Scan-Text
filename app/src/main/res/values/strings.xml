@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scan Text</string>
+    <string name="Text_Data">Hello ! Capture or Choose from Gallery to Perform OCR</string>
+    <string name="Capture_Button">Capture</string>
+    <string name="Copy_Button">Copy Text</string>
+    <string name="Retake">RETAKE</string>
+</resources>

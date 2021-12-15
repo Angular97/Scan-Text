@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
+
+        <TextView
+            android:id="@+id/text_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/Text_Data"
+            android:textColor="@color/black"
+            android:textSize="22sp">
+
+        </TextView>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/Linear_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+
+        <Button
+            android:id="@+id/Button_Capture"
+            android:backgroundTint="#F12012"
+            android:text="@string/Capture_Button"
+            android:textColor="#F8F7F7"
+            tools:ignore="TextContrastCheck"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/Button_CopyText"
+            style="@style/ButtonStyle"
+            android:visibility="gone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1B5314"
+            android:layout_weight="1"
+            android:text="@string/Copy_Button" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
